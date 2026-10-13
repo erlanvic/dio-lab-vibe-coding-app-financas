@@ -36,7 +36,8 @@ Usar tom educativo e linguagem acessível, em português.
 ## 🖼️ Prints / Interações com a IA
 Inclua aqui imagens ou pequenos vídeos das interações realizadas com o Copilot e o Lovable.  
 Exemplo:  
-![Print da interface](link-da-imagem-ou-video)
+<img width="1012" height="576" alt="image" src="https://github.com/user-attachments/assets/aed730dc-3b9c-4901-a54e-bc0016e129b5" />
+
 
 ---
 
