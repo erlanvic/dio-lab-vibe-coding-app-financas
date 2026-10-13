@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App MInhas Finanças com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -73,13 +73,116 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+PRD Refinado pelo Copilot
+# PRD - Aplicativo de Organização de Finanças Pessoais
+
+## Visão Geral
+O aplicativo ajuda iniciantes a organizar suas finanças de forma conversacional, sem necessidade de planilhas complexas ou formulários extensos.  
+A experiência é baseada em chat, com relatórios simples e dicas práticas de economia.
+
+## Objetivos
+- Facilitar o registro de gastos via linguagem natural.
+- Ajudar usuários a criar e acompanhar metas financeiras.
+- Oferecer recomendações automáticas de economia.
+- Garantir acessibilidade e boa experiência para o máximo de usuários possíveis (Design Universal).
+
+## Funcionalidades Principais
+- Registro de gastos por chat em linguagem natural.
+- Classificação automática das transações por categoria.
+- Definição e acompanhamento de metas financeiras.
+- Relatórios básicos e personalizados.
+- Dicas práticas do "Agente Financeiro".
+- Ajuste de tamanho de fonte (aumentar/diminuir letras).
+- Light Mode e Dark Mode para diferentes preferências visuais.
+
+## Design Universal
+O aplicativo deve seguir os princípios de Design Universal, garantindo que qualquer pessoa possa utilizá-lo com boa experiência, independentemente de idade, nível de habilidade ou condição física.
+
+### Princípios aplicados
+- Uso equitativo: todos devem conseguir registrar gastos sem barreiras.
+- Flexibilidade: interação por texto simples e futuramente por voz.
+- Clareza: linguagem acessível, sem termos técnicos complicados.
+- Informação perceptível: relatórios em gráficos e versão em texto.
+- Tolerância a erros: sistema interpreta frases mesmo com pequenos erros.
+
+### Funcionalidades de acessibilidade
+- Ajuste de tamanho de fonte para atender diferentes necessidades visuais.
+- Light Mode (fundo claro, texto escuro) e Dark Mode (fundo escuro, texto claro) para melhorar contraste e leitura.
+
+## Critérios de Sucesso
+- Usuário consegue registrar um gasto em menos de 10 segundos.
+- Pelo menos 70% dos gastos são classificados corretamente.
+- Usuário entende suas metas sem precisar de explicação adicional.
+- Usuário consegue ajustar fonte e modo de contraste sem dificuldade.
+
+## Validação Inicial
+- Teste com 10-20 usuários iniciantes em controle financeiro.
+- Observar se conseguem registrar gastos sem esforço.
+- Medir engajamento: quantas vezes interagem por semana.
+- Coletar feedback sobre clareza das dicas, utilidade dos relatórios e acessibilidade.
+- Ajustar linguagem, recomendações e recursos de acessibilidade conforme os comentários.
+
+## Próximos Passos
+- Criar protótipo funcional com foco em chat, relatórios básicos e acessibilidade (fonte + modos de contraste).
+- Testar a experiência conversacional antes de expandir para recursos avançados.
+- Evoluir para integrações futuras (cartão de crédito, bancos), somente após validar o uso inicial.
+
+
+- Seu **prompt final** (PRD);
+## Crie um app de finanças pessoais com base na seguinte PRD(Product Requirements Document).
+
+- Prints ou pequenos vídeos das interações com a IA;
+  <img width="1017" height="584" alt="image" src="https://github.com/user-attachments/assets/f52e54a5-b61b-4231-a1cb-2aeb6e919db9" />
+
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+  # Resumo das Funcionalidades - Finanças Rápido IA
+
+## Registro de Gastos
+- Entrada de dados via chat em linguagem natural.
+- Interpretação automática das frases (ex: "gastei R$ 50 no supermercado").
+- Classificação automática por categoria (alimentação, transporte, moradia etc.).
+
+## Relatórios Financeiros
+- Exibição de valores principais:
+  - Total gasto.
+  - Total recebido.
+  - Saldo restante.
+- Resumo em palavras para fácil compreensão.
+- Gráficos simples (pizza ou barras) mostrando gastos por categoria.
+
+## Metas Financeiras
+- Definição de objetivos (ex: economizar R$ 200 no mês).
+- Acompanhamento visual com barras de progresso.
+- Alertas quando o usuário se aproxima do limite da meta.
+
+## Dicas de Economia
+- Recomendações automáticas do "Agente Financeiro".
+- Sugestões práticas baseadas nos hábitos de consumo.
+- Mensagens curtas e claras para iniciantes.
+
+## Design Universal e Acessibilidade
+- Ajuste de tamanho de fonte (aumentar/diminuir letras).
+- Light Mode (fundo claro, texto escuro).
+- Dark Mode (fundo escuro, texto claro).
+- Relatórios em formato gráfico e textual.
+- Linguagem simples e tolerância a erros de digitação.
+
+## Critérios de Sucesso
+- Registro de gastos em menos de 10 segundos.
+- Classificação correta em pelo menos 70% dos casos.
+- Usuário entende suas metas sem explicação adicional.
+- Usuário consegue ajustar fonte e modo de contraste facilmente.
+
+## Validação Inicial
+- Testes com 10-20 usuários iniciantes.
+- Observação da facilidade de uso no registro de gastos.
+- Medição de engajamento semanal.
+- Coleta de feedback sobre relatórios, dicas e acessibilidade.
+
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+  - O que funcionou bem?  Toda interação feita com com a Copilot e lovable saiu de acordo com o esperado
+  - O que não funcionou como o esperado?  infelizmente dura pouco os créditos do Lovable
+  - O que aprendeu sobre conversar com IAs? quanto mais claro e explicativa e objetiva for o pront melhor a qualidade da resposta
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
